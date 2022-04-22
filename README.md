@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Swati Dubey
+- 👀 I’m interested in Core Java and Web Development.
+- 🌱 I’m currently learning java & web Dev.
