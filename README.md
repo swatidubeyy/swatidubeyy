@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Swati Dubey
-- 👀 I’m interested in Core Java and Web Development.
-- 🌱 I’m currently learning java & web Dev.
-- 👯 I’m looking to collaborate with Java Developers and full-stack Developers
+- 👀 I’m interested in C++ and Web Development.
+- 🌱 I’m currently learning C+ & web Dev.
+- 👯 I’m looking to collaborate with C++ Developers and full-stack Developers
